@@ -1,0 +1,13 @@
+body{
+     background-color:84D233;
+}
+h1{
+      font-family: arial;
+      font-size: 45px;
+      color:black;
+}
+#tigre{
+      width: 240px;
+      height: 220px;
+      border-radius: 70%;
+}
