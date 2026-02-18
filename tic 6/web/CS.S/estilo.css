@@ -1,0 +1,45 @@
+body{
+     background-color:FFFF08;
+}
+h1{
+      font-family: arial;
+      font-size: 45px;
+      color:blue;
+      text-align: center;
+}
+h2, h3, p{
+      text-align:center;
+}
+img{
+   display: block;
+    margin: 0 auto;
+}
+#tigre{
+      width: 240px;
+      heigth: 220px;
+      border-radius:50%;
+      border: 2px solid #ffh000;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    color: blue;
+    background-color: #ffh000;
+    padding: 15px 32px
+}
+#tigre:hover {
+  box-shadow: 0 0 2px 1px blue;
+ transform: scale(1.5);
+}
+button:hover{
+ background-color:blue;
+}
+ul {
+  text-align: center;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
